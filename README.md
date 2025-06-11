@@ -8,4 +8,19 @@ rayann@Legion-5-15IAH7H:~/Projects/tp-eslint-git$ npx eslint app.js
 
 ✖ 1 problem (1 error, 0 warnings)
 
+3. npx husy est depecrated, pas possible donc de faire la suite
+   Le commit se bloque quand il y aune erreur donc je corrige l'erreur pour commit
+
+
+
+4.0
+- il semblerait que la fonction extends ne marche pas, elle serait deprecated. 
+- La solution serait donc d'utiliser les rules en important la config de eslint-config-airbnb-base
+- Une erreur arrive quand j'essaie d'installer la config
+
+- Il y a peut-etre un problème au niveau de la version qui n'est plu compatible
+
+
+5.
+tout a été push sur github ainsi que le worflow que vous pouvez vérifier sur github directement
 
